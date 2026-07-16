@@ -1,0 +1,4 @@
+# Ignore Dockerfile and requirements.txt
+Dockerfile
+requirements.txt
+
